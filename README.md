@@ -1,16 +1,13 @@
-### Hi there 👋
+# Jean Souza
 
-<!--
-**JeanSouza97/JeanSouza97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá Pessoal 👋
 
-Here are some ideas to get you started:
+Sou iniciante na área de programação/Game Designer
+Tenho um grande interesse de me aperfeiçoar, em variados tipos de linguagem com o próposito de uso comercial e aumento capacidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente não exerco trabalhos na área
+Estou estudando para realizar esse próposito.
+Utilizo atualmente atráves de estudos a linguagem JAVA para criação de Jogos
+Em decorrência disso, estou aprendendo também desenhos em VETOR e PIXEL.
+
+Procuro colaborar com pessoas, que necessitem de ajuda em seus projetos em JAVA atualmente
